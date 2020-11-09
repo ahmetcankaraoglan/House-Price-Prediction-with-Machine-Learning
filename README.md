@@ -1,4 +1,4 @@
-# House-Prices
+# House Prices
 
 Bu repoda Kaggle'da yer alan House Prices yarışması için gerçekleştirmiş olduğum Doğrusal modeller ve Doğrusal olmayan modellere ait kodlar yer almaktadır. 
 
